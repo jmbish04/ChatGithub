@@ -27,7 +27,8 @@
     "@nuxt/eslint-config": "^0.5.7",
     "eslint": "^9.11.1",
     "vue-tsc": "^2.1.6",
-    "wrangler": "^3.78.10"
+    "wrangler": "^3.78.10",
+    "@nuxthub/core": "latest"
   },
   "packageManager": "pnpm@9.9.0"
 }
